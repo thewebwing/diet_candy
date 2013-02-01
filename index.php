@@ -1,1 +1,5 @@
-<?php echo 'hi'; ?>
+<?php get_header(); ?>
+
+<?='hi'; ?>
+
+<?php get_footer(); ?>
